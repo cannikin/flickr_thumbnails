@@ -1,4 +1,4 @@
-= Flickr
+= Flickr Thumbnails
 
 A simple tag that will pull photos from the Flickr api and display on your site in an unordered list. The list will show the thumbnail with alt text being the title of the photo, surrounded by a link to view the full photo on flickr.
 
