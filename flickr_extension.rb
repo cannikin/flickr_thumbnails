@@ -2,7 +2,7 @@ require 'open-uri'
 require 'activesupport'
 
 class FlickrExtension < Radiant::Extension
-  version "1.0"
+  version "0.1"
   description "Pulls thumbnails from flickr for display"
   url "http://ridingtheclutch.com/flickr"
 
